@@ -1,2 +1,0 @@
-# samirov
-samirov
